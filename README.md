@@ -1,3 +1,15 @@
+---
+title: Price Drop Oracle
+emoji: 🔮
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: "4.44.0"
+app_file: app.py
+pinned: false
+---
+
+
 # Should I Buy It Now or Wait? 🛒🔮
 
 Predicts whether a product's price is likely to drop in the next month.
